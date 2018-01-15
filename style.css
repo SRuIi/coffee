@@ -1,0 +1,44 @@
+.daohanag {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #682023;
+	background-color:#994a02
+	text-align: center;
+	height: 60px;
+	width: 126px;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #990;
+}
+a:hover {
+	background-color: #cf851c;
+	padding-top: 10px;
+	padding-right: 25px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	text-decoration: none;
+}
+.wenzi {
+	font-family: "黑体", "华文彩云";
+	font-size: 16px;
+	font-style: normal;
+	color: #FFF;
+	text-decoration: none;
+	line-height: 35px;
+}
+.yingwen {
+	font-family: "Lucida Console", Monaco, monospace;
+	color: #804000;
+}
+.zhongwen {
+	font-family: "华文琥珀";
+	color: #808000;
+}
+.gundongtiaowenzi {
+	font-family: "黑体";
+	color: #960;
+}
